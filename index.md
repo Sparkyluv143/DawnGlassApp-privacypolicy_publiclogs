@@ -18,6 +18,7 @@ Andhra Pradesh, India ("we", "us").
 - We do not sell or share personal information.
 
 ## 2. What stays on your phone (and never reaches us)
+
 | Data | Why the App keeps it | Where |
 |---|---|---|
 | Countdown titles, dates and order | To show your countdowns and widgets | App-private storage on your phone |
@@ -40,6 +41,7 @@ To keep countdown titles out of widgets, notifications and the wallpaper, turn o
 screen and block screenshots, turn on **Settings → Hide app in recent apps**.
 
 ## 3. Permissions
+
 | Permission | Why |
 |---|---|
 | Photo Picker (no permission needed) | You choose one photo; the App sees only that photo, not your gallery |
