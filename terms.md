@@ -34,8 +34,8 @@ under their own licences, listed in **Settings → Licences**. Those licences
 apply to those parts and nothing here limits your rights under them.
 
 ## 3. Your data stays on your device
-3.1 Your countdowns, settings, favourites and any wallpaper photo you choose
-are stored **only on your device**. The App has no internet access and does
+3.1 Your countdowns, daily planner tasks and ticks, settings, favourites and any
+wallpaper photo you choose are stored **only on your device**. The App has no internet access and does
 not send them to us or to anyone else. Our Privacy Policy explains this in detail.
 3.2 Because we never receive your data, **we cannot restore it** if your device
 is lost, reset or the App is uninstalled. Android's phone-to-phone transfer
@@ -43,6 +43,9 @@ may copy your countdowns to a new phone; the wallpaper photo is not copied.
 3.3 **Your photo stays yours.** If you use your own photo as a wallpaper, it
 stays on your device and we get no rights in it. Please only use photos you
 are allowed to use.
+3.4 **What you share is up to you.** If you share your monthly report picture, you choose
+the app and the people who see it. Please don't put anyone else's name on it without their
+agreement.
 
 ## 4. Our content and ownership
 4.1 The App, its design, the "Tikku" character, artwork and original quotes
@@ -56,7 +59,8 @@ separate service with its own terms; we are not responsible for YouTube's
 recommendations of other channels' videos.
 
 ## 5A. Not professional advice
-Quotes are for motivation only. Countdowns show the dates you enter. You are
+Quotes are for motivation only. Countdowns show the dates you enter, and planner scores only
+count your own ticks. You are
 responsible for checking important dates and deadlines; don't rely on the App
 as your only reminder for anything critical (exams, legal or medical dates).
 

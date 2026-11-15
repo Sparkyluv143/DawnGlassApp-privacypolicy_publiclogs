@@ -25,6 +25,8 @@ Andhra Pradesh, India ("we", "us").
 | Settings (theme, time format, etc.) | To remember your choices | App-private storage |
 | Favourite quotes | To show your favourites | App-private storage |
 | Your wallpaper photo (if you choose one) | To draw your wallpaper | A private copy on your phone. Location and camera details are **removed** from the copy |
+| Daily planner tasks (name, time, days) and your ticks (if you use the planner) | To show your plan, your weekly and monthly reports, and your next task on the wallpaper | App-private storage. When you remove a task, its name is erased; only its past ticks stay for your reports |
+| A name for your monthly picture (optional) | To print it on the picture when you share | App-private storage |
 
 Other apps cannot read this storage. To delete everything, use
 **Settings → Delete all my data**, or uninstall the App.
@@ -32,11 +34,11 @@ Other apps cannot read this storage. To delete everything, use
 **What other software on your own phone can see.** We send nothing anywhere, but
 Android itself lets a few things you have installed or allowed see what any app shows:
 - **Your home-screen app** draws widgets, so it can see what our widgets display.
-- **Apps you have given notification access** can read our reminder notifications.
+- **Apps you have given notification access** can read our reminder and planner check-in notifications.
 - **Your keyboard app** sees what you type, as it does in every app.
 - **Accessibility services and screen recorders** you have switched on can read the screen.
 
-To keep countdown titles out of widgets, notifications and the wallpaper, turn on
+To keep countdown titles and planner task names out of widgets, notifications and the wallpaper, turn on
 **Settings → Hide titles outside the app**. To blank the App in the recent-apps
 screen and block screenshots, turn on **Settings → Hide app in recent apps**.
 
@@ -46,11 +48,19 @@ screen and block screenshots, turn on **Settings → Hide app in recent apps**.
 |---|---|
 | Photo Picker (no permission needed) | You choose one photo; the App sees only that photo, not your gallery |
 | Run at start-up | So widgets keep counting correctly after your phone restarts |
-| Notifications (optional, asked only if you turn on reminders) | To remind you when a countdown reaches zero. The lock screen hides the countdown title |
+| Notifications (optional, asked only if you turn on reminders or the daily planner) | To remind you when a countdown reaches zero, to ask whether you finished a planned task, and to tell you when your reports are ready. The lock screen hides titles and task names |
 | Alarms & reminders (optional, only if you choose **Settings → Allow on-time updates**) | So widgets change exactly at midnight and reminders arrive on time. It only sets timers on your phone and sends nothing anywhere |
 
 The App does **not** ask for internet, location, contacts, camera, microphone or
 storage permissions.
+
+### Sharing your monthly report
+When you tap **Share** on your monthly report, the App makes a picture with your month's
+numbers (consistency, tasks done, best streak and stars) and, only if you type one, a name.
+**Task names are never on the picture.** The App hands the picture and a link to the App on
+Google Play to the app **you** choose (for example a messaging app); the App itself sends
+nothing. What happens next is up to that app and its privacy policy. The picture is kept in
+the App's private storage until you share again or delete all your data.
 
 ## 4. Backups and new phones
 The App's data is **excluded from cloud backups**. Android's direct
