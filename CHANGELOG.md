@@ -7,7 +7,8 @@ What changes in each version of the app and its policies, in plain words.
 ### 0.1.0 — in testing (not yet on Google Play)
 The first version.
 - A home screen with everything one tap away: countdowns, the daily planner, wallpapers,
-  adding a widget, reports and settings. Every feature starts on; turn off what you don't need.
+  adding a widget, reports and settings, plus a moon button for dark mode. Every feature starts
+  on; turn off what you don't need.
 - Countdowns for exams, trips, birthdays and deadlines: the days left in big numbers,
   with a live clock below.
 - Two home-screen widgets: your countdowns, and your next countdown with a quote of the day.
@@ -18,7 +19,8 @@ The first version.
   the days above it. Power saver keeps the countdown and quote, only the animation stops.
 - Optional reminder when a countdown reaches zero, and optional on-time updates so widgets
   change exactly at midnight.
-- Daily planner: add tasks with just a name and a time, tick them off, and get a weekly score
+- Daily planner: an hourly plan for the day (tap an hour to add a task — the time is filled
+  in, just type the name; remove a task with the bin icon). Add tasks with just a name and a time, tick them off, and get a weekly score
   with encouragement and a motivation video button. A monthly report you can share as a
   picture, with stars for how your month went. Two looks: Paper and Night.
 - Optional check-in notifications ask whether you finished a task, and the live wallpaper can
