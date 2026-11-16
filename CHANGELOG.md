@@ -14,7 +14,8 @@ The first version.
   Both fit every phone, tablet and foldable, at every text size.
 - Live wallpaper: seven animated scenes or your own photo, with a power-saver mode. Your
   countdown and the quote of the day are built into the wallpaper (on by default; each can be
-  turned off), with your next planned task underneath.
+  turned off), with your next planned task underneath. Choose a days box beside the quote or
+  the days above it. Power saver keeps the countdown and quote, only the animation stops.
 - Optional reminder when a countdown reaches zero, and optional on-time updates so widgets
   change exactly at midnight.
 - Daily planner: add tasks with just a name and a time, tick them off, and get a weekly score
