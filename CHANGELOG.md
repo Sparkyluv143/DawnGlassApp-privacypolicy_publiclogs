@@ -14,7 +14,8 @@ The first version.
   with a live clock below.
 - Two home-screen widgets: your countdowns, and your countdowns with a quote of the day. In
   both, swipe the countdown up or down to see the others; small dots show which one you are
-  on. Both show your next planned task (tap it to open today's plan) and a button for the
+  on. In Settings you can turn the small live clock on widgets off, and choose to see the
+  edges of the next cards like a deck. Both show your next planned task (tap it to open today's plan) and a button for the
   motivation playlist. Both fit every phone, tablet and foldable, at every text size.
 - Live wallpaper: seven animated scenes or your own photo, with a power-saver mode. Your
   countdown and the quote of the day are built into the wallpaper (on by default; each can be
