@@ -49,7 +49,7 @@ screen and block screenshots, turn on **Settings → Hide app in recent apps**.
 | Photo Picker (no permission needed) | You choose one photo; the App sees only that photo, not your gallery |
 | Run at start-up | So widgets keep counting correctly after your phone restarts |
 | Notifications (optional, asked only if you turn on reminders or the daily planner) | To remind you when a countdown reaches zero, to ask whether you finished a planned task, and to tell you when your reports are ready. The lock screen hides titles and task names |
-| Alarms & reminders (optional, only if you choose **Settings → Allow on-time updates**) | So widgets change exactly at midnight and reminders arrive on time. It only sets timers on your phone and sends nothing anywhere |
+| Alarms & reminders (**Settings → On-time updates**, on by default; on newer Android versions Android asks you to allow it once, and you can turn it off any time) | So widgets change exactly at midnight and reminders and check-ins arrive on time. It only sets timers on your phone and sends nothing anywhere |
 
 The App does **not** ask for internet, location, contacts, camera, microphone or
 storage permissions.
