@@ -6,6 +6,8 @@ What changes in each version of the app and its policies, in plain words.
 
 ### 0.1.0 — in testing (not yet on Google Play)
 The first version.
+- A home screen with everything one tap away: countdowns, the daily planner, wallpapers,
+  adding a widget, reports and settings. Every feature starts on; turn off what you don't need.
 - Countdowns for exams, trips, birthdays and deadlines: the days left in big numbers,
   with a live clock below.
 - Two home-screen widgets: your countdowns, and your next countdown with a quote of the day.
