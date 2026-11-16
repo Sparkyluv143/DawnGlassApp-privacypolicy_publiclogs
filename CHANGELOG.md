@@ -11,7 +11,8 @@ The first version.
   on; turn off what you don't need.
 - Countdowns for exams, trips, birthdays and deadlines: the days left in big numbers,
   with a live clock below.
-- Two home-screen widgets: your countdowns (swipe up or down to see the others), and your next
+- Two home-screen widgets: your countdowns (swipe up or down to see the others; small dots
+  show which one you are on), and your next
   countdown with a quote of the day. Both show your next planned task (tap it to open today's
   plan) and a button for the motivation playlist. Both fit every phone, tablet and foldable,
   at every text size.
