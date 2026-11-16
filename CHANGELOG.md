@@ -11,9 +11,10 @@ The first version.
   on; turn off what you don't need.
 - Countdowns for exams, trips, birthdays and deadlines: the days left in big numbers,
   with a live clock below.
-- Two home-screen widgets: your countdowns (one at a time, with ‹ › buttons to see the
-  others), and your next countdown with a quote of the day. Both show your next planned task;
-  tap it to open today's plan. Both fit every phone, tablet and foldable, at every text size.
+- Two home-screen widgets: your countdowns (swipe up or down to see the others), and your next
+  countdown with a quote of the day. Both show your next planned task (tap it to open today's
+  plan) and a button for the motivation playlist. Both fit every phone, tablet and foldable,
+  at every text size.
 - Live wallpaper: seven animated scenes or your own photo, with a power-saver mode. Your
   countdown and the quote of the day are built into the wallpaper (on by default; each can be
   turned off), with your next planned task underneath. Choose a days box beside the quote or
