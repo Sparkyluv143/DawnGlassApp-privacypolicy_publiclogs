@@ -20,7 +20,8 @@ The first version.
   countdown and the quote of the day are built into the wallpaper (on by default; each can be
   turned off), with your next planned task underneath. Choose a days box beside the quote or
   the days above it. Power saver keeps the countdown and quote, only the animation stops.
-  A clock sits at the top (tap it to open your alarms), and round buttons under the panel let
+  A clock sits at the top in a style you choose (Classic, Big, Bold, Elegant or Pill), a
+  little higher or lower if you like (tap it to open your alarms), and round buttons under the panel let
   you switch countdowns, get a new quote or open the motivation playlist; tap your next task
   to open today's plan. The clock and the buttons can each be turned off.
 - Optional reminder when a countdown reaches zero, and optional on-time updates so widgets
