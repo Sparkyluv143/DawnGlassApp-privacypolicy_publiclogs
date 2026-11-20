@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Dawnglass – Days Counter — Privacy Policy
 
-**Version 1.1** · Effective date: 16 November 2026
+**Version 1.2** · Effective date: 20 November 2026
 
 This policy explains how the Dawnglass – Days Counter app (the "App") handles your
 information. The App is made by **Sparkyluv**, an independent developer based in Eluru,
@@ -50,7 +50,7 @@ screen and block screenshots, turn on **Settings → Hide app in recent apps**.
 | Run at start-up | So widgets keep counting correctly after your phone restarts |
 | Notifications (asked once after setup; you can say no, and turn reminders and check-ins off in Settings at any time) | To remind you when a countdown reaches zero, to ask whether you finished a planned task, and to tell you when your reports are ready. The lock screen hides titles and task names |
 | Alarms & reminders (**Settings → On-time updates**, on by default; on newer Android versions Android asks you to allow it once, and you can turn it off any time) | So widgets change exactly at midnight and reminders and check-ins arrive on time. It only sets timers on your phone and sends nothing anywhere |
-| Open your alarms (granted automatically, no pop-up) | So tapping the clock on the live wallpaper opens your phone's alarm list in its clock app. The App never sets, reads or changes your alarms |
+| Open your clock app (granted automatically, no pop-up) | So tapping the clock on the live wallpaper opens your phone's own clock app (or just its alarm list, if the clock app can't be opened directly). To find it, the App asks Android only which app handles alarms — it cannot see your other apps. The App never sets, reads or changes your alarms |
 
 The App does **not** ask for internet, location, contacts, camera, microphone or
 storage permissions.

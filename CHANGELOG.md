@@ -4,6 +4,13 @@ What changes in each version of the app and its policies, in plain words.
 
 ## App versions
 
+### 1.0.0 — first public version (in testing)
+- Tapping the clock on the live wallpaper now opens your phone's clock app itself (alarms,
+  world clock, stopwatch, timer), like tapping a clock widget — before, some phones showed only
+  a bare alarm list.
+- Smoother app: the animated wallpaper preview now runs at the same calm pace as the wallpaper
+  itself, your own photo loads without freezing the screen, and screens open faster.
+
 ### 0.1.0 — in testing (not yet on Google Play)
 The first version.
 - A home screen with everything one tap away: countdowns, the daily planner, wallpapers,
@@ -37,6 +44,12 @@ The first version.
   and "Delete all my data" erases it.
 
 ## Policy versions
+
+### 20 November 2026 — Privacy Policy version 1.2
+Tapping the clock on the live wallpaper now opens your phone's clock app instead of only its
+alarm list. To find the clock app, the App asks Android which app handles alarms; it cannot see
+your other apps. The permission is the same one as before, and the App still never sets, reads
+or changes your alarms. Nothing else changed.
 
 ### 16 November 2026 — Privacy Policy version 1.1
 Adds one permission to the list: opening your phone's alarm list when you tap the clock on the
