@@ -4,6 +4,27 @@ What changes in each version of the app and its policies, in plain words.
 
 ## App versions
 
+### 1.1.0 — in testing
+- Idle buddy: when your home screen sits idle for a while, Tikku hops and says hello — at most
+  twice a day, never in battery saver. Switch it off in Wallpaper settings.
+- 22 more wallpaper scenes, grouped by mood (29 in all), and four looks for Tikku: Classic,
+  Scholar, Monk and Champ.
+- Weekly plan: one short line for each day of the week (like a subject a day), in a small notepad
+  box in the daily planner — repeat it every week or plan just this week — and a "Weekly plan"
+  home-screen widget.
+- Lock-screen timer: set a timer (for example 2 or 3 hours) and see the time left on your lock
+  screen. Optional "Screen always on": a big countdown (with an optional dial) stays on screen,
+  also over the lock screen, until the time is up.
+- Finished countdowns step aside: from the day after, the wallpaper and widgets show your next
+  countdown instead of counting days backwards; finished ones wait in a "Done" section in the
+  app, where "Clear" moves them to the archive.
+
+### 1.0.2
+- Finished countdowns step aside for your next one instead of showing "1 day ago" (also in 1.1).
+
+### 1.0.1
+- Fixed: tapping an app on your home screen or in the app drawer could open the clock instead.
+
 ### 1.0.0 — first public version (in testing)
 - Tapping the clock on the live wallpaper now opens your phone's clock app itself (alarms,
   world clock, stopwatch, timer), like tapping a clock widget — before, some phones showed only
@@ -44,6 +65,16 @@ The first version.
   and "Delete all my data" erases it.
 
 ## Policy versions
+
+### 23 November 2026 — Privacy Policy version 1.4
+- Adds the lock-screen timer: while a timer runs, the App keeps when it ends, whether to keep the
+  screen on and whether to show the dial, on your phone only. The lock screen shows only the time left. Nothing
+  is collected or sent.
+
+### 20 November 2026 — Privacy Policy version 1.3
+Lists two more things the App keeps on your phone for version 1.1: your weekly plan lines, and
+when Tikku last said hello (so it happens at most twice a day). Both stay on your phone, are
+covered by "Hide titles outside the app" and "Delete all my data", and are never sent anywhere.
 
 ### 20 November 2026 — Privacy Policy version 1.2
 Tapping the clock on the live wallpaper now opens your phone's clock app instead of only its

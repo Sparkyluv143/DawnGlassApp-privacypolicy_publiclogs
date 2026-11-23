@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Dawnglass – Days Counter — Privacy Policy
 
-**Version 1.2** · Effective date: 20 November 2026
+**Version 1.4** · Effective date: 23 November 2026
 
 This policy explains how the Dawnglass – Days Counter app (the "App") handles your
 information. The App is made by **Sparkyluv**, an independent developer based in Eluru,
@@ -27,6 +27,9 @@ Andhra Pradesh, India ("we", "us").
 | Your wallpaper photo (if you choose one) | To draw your wallpaper | A private copy on your phone. Location and camera details are **removed** from the copy |
 | Daily planner tasks (name, time, days) and your ticks (if you use the planner) | To show your plan, your weekly and monthly reports, and your next task on the wallpaper | App-private storage. When you remove a task, its name is erased; only its past ticks stay for your reports |
 | A name for your monthly picture (optional) | To print it on the picture when you share | App-private storage |
+| Weekly plan lines (one short line per day, if you use the weekly plan) and whether the plan repeats every week | To show your week in the planner and on the weekly widget | App-private storage |
+| When Tikku last said hello (a date, a count and a time) | So the "Idle buddy" appears at most twice a day | App-private storage |
+| The lock-screen timer, while one runs: when it ends, whether to keep the screen on and whether to show the dial | To show the time left on your lock screen and say "Time's up" | App-private storage; erased when the timer ends or is stopped |
 
 Other apps cannot read this storage. To delete everything, use
 **Settings → Delete all my data**, or uninstall the App.
@@ -38,7 +41,7 @@ Android itself lets a few things you have installed or allowed see what any app 
 - **Your keyboard app** sees what you type, as it does in every app.
 - **Accessibility services and screen recorders** you have switched on can read the screen.
 
-To keep countdown titles and planner task names out of widgets, notifications and the wallpaper, turn on
+To keep countdown titles, planner task names and weekly plan lines out of widgets, notifications and the wallpaper, turn on
 **Settings → Hide titles outside the app**. To blank the App in the recent-apps
 screen and block screenshots, turn on **Settings → Hide app in recent apps**.
 
